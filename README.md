@@ -57,7 +57,7 @@ AIBot/
 
 1. Navigate to project directory:
 ```bash
-cd /Users/vladimirpopov/GolandProjects/AIBot
+cd /AIBot
 ```
 
 2. Install Go dependencies:
